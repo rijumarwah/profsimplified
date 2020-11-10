@@ -1,4 +1,4 @@
-# profsimplified
+# Professor Simplified
 Discord bot with History commands for the OverSimplified Discord server
 
 Requires
